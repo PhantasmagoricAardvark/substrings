@@ -1,0 +1,1 @@
+A method that takes a string, and an array of substrings. It returns a hash which lists the number of times the substring was found
